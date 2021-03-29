@@ -1,24 +1,13 @@
-# react-ao-vue
+# Repository Finder
 
-## Project setup
+Uma aplicação de exemplo para uma aprensentação sobre as diferenças do Vue.js para o React.js. 
+
+## Instalar as dependências
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
